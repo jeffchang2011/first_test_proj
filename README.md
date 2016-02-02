@@ -1,3 +1,3 @@
-this a first github proj
+# first github proj
 
 this is the readme for this proj
